@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperspdate",
+        "uuid": 9896652,
+        "checksum": "5501pu"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
